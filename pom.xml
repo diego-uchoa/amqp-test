@@ -28,7 +28,7 @@ under the License.
    </parent>
 
    <artifactId>queue</artifactId>
-   <packaging>jar</packaging>
+   <packaging>war</packaging>
    <name>ActiveMQ Artemis Proton-J Example</name>
 
    <properties>
